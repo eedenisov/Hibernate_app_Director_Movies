@@ -46,8 +46,6 @@ public class App {
 //            movie.getDirector().getMovies().remove(movie);
 //            movie.setDirector(director);
 //            director.getMovies().add(movie);
-//            session.save(director);
-//            session.save(movie);
 
 //            Удалим фильм у режиссера
 //            Movie movie = session.get(Movie.class, 12);
